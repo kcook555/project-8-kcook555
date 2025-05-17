@@ -1,3 +1,5 @@
+# Author: Kevin Phillips
+# GitHub username: kcook555
 # Date: 5/16/2025
 # Description: Function that takes a list
 #              and reverses it
